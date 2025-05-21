@@ -23,8 +23,8 @@ Follow the link to the article to run the lab you're interested in.
 
 |            Lab Name             | Preview in GitHub | Article | 
 |:--------------------------------|:-------:|:-----------------:|
-| ​​Try OpenShift AI and integrate with Apache Camel | [preview](https://github.com/RedHat-Middleware-Workshops/devsandbox-category-ai-basics/blob/main/docs/labs/basics/walkthrough.adoc)| [link](https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel)
-| Tool Up your LLM with Apache Camel on OpenShift | [preview](https://github.com/RedHat-Middleware-Workshops/devsandbox-category-llm-basics/blob/main/docs/labs/tools/walkthrough.adoc)| [link](https://developers.redhat.com/articles/2024/09/26/tutorial-tool-your-llm-apache-camel-openshift)
+| ​​Try OpenShift AI and integrate with Apache Camel | [preview](https://github.com/kamorisan/devsandbox-category-ai-basics/blob/main/docs/labs/basics/walkthrough.adoc)| [link](https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel)
+| Tool Up your LLM with Apache Camel on OpenShift | [preview](https://github.com/kamorisan/devsandbox-category-llm-basics/blob/main/docs/labs/tools/walkthrough.adoc)| [link](https://developers.redhat.com/articles/2024/09/26/tutorial-tool-your-llm-apache-camel-openshift)
 
 <br/>
 

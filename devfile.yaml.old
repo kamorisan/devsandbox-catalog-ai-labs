@@ -9,17 +9,17 @@ projects:
 # - name: catalog
 #   git:
 #     remotes:
-#       origin: https://github.com/RedHat-Middleware-Workshops/devsandbox-catalog-ai-labs.git
+#       origin: https://github.com/kamorisan/devsandbox-catalog-ai-labs.git
 
 - name: ai-basics
   git:
     remotes:
-      origin: https://github.com/RedHat-Middleware-Workshops/devsandbox-category-ai-basics.git
+      origin: https://github.com/kamorisan/devsandbox-category-ai-basics.git
 
 # - name: llm-basics
 #   git:
 #     remotes:
-#       origin: https://github.com/RedHat-Middleware-Workshops/devsandbox-category-llm-basics.git
+#       origin: https://github.com/kamorisan/devsandbox-category-llm-basics.git
 
 
 components:
@@ -65,11 +65,11 @@ components:
           value: '5001'
         - name: WALKTHROUGH_LOCATIONS
           value: >-
-            https://github.com/RedHat-Middleware-Workshops/devsandbox-category-ai-basics?walkthroughsFolder=/docs/labs
+            https://github.com/kamorisan/devsandbox-category-ai-basics?walkthroughsFolder=/docs/labs
 
 #          value: >-
-#            https://github.com/RedHat-Middleware-Workshops/devsandbox-category-ai-basics?walkthroughsFolder=/docs/labs,
-#            https://github.com/RedHat-Middleware-Workshops/devsandbox-category-llm-basics?walkthroughsFolder=/docs/labs
+#            https://github.com/kamorisan/devsandbox-category-ai-basics?walkthroughsFolder=/docs/labs,
+#            https://github.com/kamorisan/devsandbox-category-llm-basics?walkthroughsFolder=/docs/labs
 
       endpoints:
         - name: tutorial
