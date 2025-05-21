@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ai-basics",
+			"path": "/projects/ai-basics"
+		},
+		{
+			"name": "llm-basics",
+			"path": "/projects/llm-basics"
+		}
+	]
+}
